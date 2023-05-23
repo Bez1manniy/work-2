@@ -1,0 +1,25 @@
+     --Виды Тегов--
+   <p> Абзац </p>
+   <h1> Заголовок 1 </h1>
+   <h2> Заголовок 2 </h2>
+   <h3> Заголовок 3 </h3>
+   <h4> Заголовок 4 </h4>
+   <h5> Заголовок 5 </h5>
+   <h6> Заголовок 6 </h6>
+   <p><b> Жирный Шрифт 1 вар</b></p>
+   <p><strong> Жирный Шрифт 2 вар</strong></p>
+   <p><i> Курсив 1 вар </i></p>
+   <p><em> Курсив 2 вар </em></p>
+   <p><strike> Зачеркнуть </strike></p>
+   <p><u> Подчеркнуть </u></p>
+   <p><abbr title= "Atomic Heart">At</abbr></p>
+   <p><address> Чаломей, город будущего </address></p>
+   <p>Этот <strong><em> текст пробный </em></strong></p>
+   <small> Маленький </small>
+   <big> Большой </big>
+   <p><pre> П о е ы        
+  р б л</pre></p>
+  <p><blockquote cite"http://google.com">Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</blockquote></p>
+  <p>Майор П-3 Ничев<q cite"http://google.com"> был лишь марионеткой Захарова</q></p>
+  <hr />
+  <p><blockquote cite"http://google.com">Words can be like X-rays, if you use them properly—they’ll go through anything.<br />  <br /> You read and you’re pierced.</blockquote></p>
